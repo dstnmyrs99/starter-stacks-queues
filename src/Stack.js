@@ -2,7 +2,7 @@
 class Node {
   constructor(value, next = null) {
     this.value = value;
-    this.nrxt = next;
+    this.next = next;
   }
 }
 
